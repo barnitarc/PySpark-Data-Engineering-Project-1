@@ -41,3 +41,14 @@ This project analyzes employee data using PySpark, focusing on insights derived 
 * This project is designed for exploratory data analysis and insights generation. It can be extended for further analysis or integrated into larger data pipelines.
 * Make sure to customize file paths and configurations based on your environment and data source locations.
 * Feel free to modify the code and analysis to suit your specific requirements or business objectives.
+
+# Questions answered:
+1. Find highest rated employee in every department in each zone
+2. Find how many active employees are in each business unit
+3. Find the most frequent location trainings took place
+4. find total cost for each training program
+5. find name,dob,email, supervisor of employees who have successfully completed the each highest costing trainings programs.
+6. find after how many days each employee took their training after joining, what training they took and whats was the outcome
+7. find how many days each employee worked/is working in the company
+8. how many employees are in PIP in each divisions and how many training were completed/passed for those
+ -- feel free to clone and add more questions here. Thanks
