@@ -51,4 +51,5 @@ This project analyzes employee data using PySpark, focusing on insights derived 
 6. find after how many days each employee took their training after joining, what training they took and whats was the outcome
 7. find how many days each employee worked/is working in the company
 8. how many employees are in PIP in each divisions and how many training were completed/passed for those
+ 
  -- feel free to clone and add more questions here. Thanks
